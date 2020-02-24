@@ -1,0 +1,11 @@
+Stormtrooper,2,n
+Bounty Hunter,3,n
+Sith Apprentice,4,f
+Sith Lord,5,f
+Droid Warrior,2,n
+Droid Defender,1,n
+Angry Wookiee,3,n
+Dathomiri,2,f
+Tusken Raider,2,n
+Jawa,1,n
+Twi'lek Apprentice,3,f
